@@ -1,0 +1,17 @@
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.exe
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.deps.json
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.runtimeconfig.json
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.runtimeconfig.dev.json
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.dll
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\System.Json.dll
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.csprojAssemblyReference.cache
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.AssemblyInfoInputs.cache
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.AssemblyInfo.cs
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.csproj.CoreCompileInputs.cache
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.csproj.CopyComplete
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.dll
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.genruntimeconfig.cache
+C:\Users\arybe\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\input.json
